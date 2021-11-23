@@ -1,3 +1,11 @@
+figcaption {
+	color: grey;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.4rem;
+	text-align: justify;
+	line-height: 1.5;
+}
+
 li a {
   display: block;
   color: black;
